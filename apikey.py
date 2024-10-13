@@ -1,0 +1,1 @@
+gemini_open_apikey = "Generate the free google API token as mentioned in readme"
